@@ -15,3 +15,4 @@
 
 ### Reports: 
 Allure
+![image](https://github.com/IfrahIshtiaq/Selenium-OrangeHRM/assets/44129222/6a3d17e0-7006-4070-a59c-3a4e558f5cd2)
