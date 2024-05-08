@@ -1,7 +1,6 @@
 # Selenium-OrangeHRM
 
 ## Technologies and Tools used:
-Selenium Webdriver
 * Selenium WebDriver
 * Java
 * Intellij idea
@@ -9,5 +8,10 @@ Selenium Webdriver
 * TestNG
 * Allure
 
-### Pattern: Page Object Model
-### Reports: Allure
+### Pattern: 
+- Page Object Model
+- Data using Property file
+- TestNG XML test cases runner file
+
+### Reports: 
+Allure
